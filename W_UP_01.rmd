@@ -79,3 +79,7 @@ we conclude that skill position players can do more pushups on average than than
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+
+We looked at the date acquired from Jamestown, and searched for weather there was a correlation between the position of the players and the number of pushups the player could do. The data reflects that on average the skilled player did 3 times as many push ups as a line players. The p-value is 0.000009421 which is less that 0.05 so I reject the null hypothesis. 
+
+
